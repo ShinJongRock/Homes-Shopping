@@ -1,3 +1,4 @@
 # Homes-Shopping
 
-![image](https://user-images.githubusercontent.com/75960352/227935675-86089999-3e43-4e32-b510-016c1f2a31ce.png)
+![image](https://user-images.githubusercontent.com/75960352/228560975-d8374617-7f90-4e10-9c52-fc384c2ed248.png)
+
